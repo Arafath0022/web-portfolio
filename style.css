@@ -29,3 +29,11 @@ p{
 h3{
     font-family: 'Poppins', sans-serif;
 }
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
+
+section{
+    height: 500px;
+}
